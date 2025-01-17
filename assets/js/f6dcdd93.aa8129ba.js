@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_indeepvision_onevision_docs=self.webpackChunk_indeepvision_onevision_docs||[]).push([[5882],{1582:e=>{e.exports=JSON.parse('{"permalink":"/onevision/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

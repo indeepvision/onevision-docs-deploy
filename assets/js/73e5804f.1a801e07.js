@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_indeepvision_onevision_docs=self.webpackChunk_indeepvision_onevision_docs||[]).push([[7110],{8815:o=>{o.exports=JSON.parse('{"permalink":"/onevision/blog/tags/communications","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
